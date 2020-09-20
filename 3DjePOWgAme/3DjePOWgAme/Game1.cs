@@ -75,7 +75,7 @@ namespace _3DjePOWgAme
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
             
-            //GAMETIME
+            // GAMETIME
             // TODO: Add your drawing code here
 
             base.Draw(gameTime);
