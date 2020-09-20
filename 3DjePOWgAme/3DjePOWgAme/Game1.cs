@@ -74,7 +74,11 @@ namespace _3DjePOWgAme
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
+<<<<<<< HEAD
             
+=======
+
+>>>>>>> parent of 81f147b... Patch 1.2 GAMER
             // TODO: Add your drawing code here
 
             base.Draw(gameTime);
