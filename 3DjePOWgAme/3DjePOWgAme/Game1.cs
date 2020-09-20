@@ -74,8 +74,10 @@ namespace _3DjePOWgAme
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
+            OHNONO
+
             
-            // GAMETIME
+            // GAMETIME 2
             // TODO: Add your drawing code here
 
             base.Draw(gameTime);
