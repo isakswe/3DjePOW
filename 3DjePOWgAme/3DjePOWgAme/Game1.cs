@@ -74,7 +74,7 @@ namespace _3DjePOWgAme
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
-            OHNONO
+            OHNON
 
             
             // GAMETIME 2
